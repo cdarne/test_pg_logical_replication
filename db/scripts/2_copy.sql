@@ -1,0 +1,1 @@
+COPY movies FROM '/data/data.csv' DELIMITER ',' CSV HEADER;
